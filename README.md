@@ -1,4 +1,4 @@
-# React Freelancer Complete Guide 🚀
+# React Freelancer Complete Guide 
 
 Ye project React ke freelancing ke liye essential topics ka ek complete roadmap hai.  
 Isse padh ke aap real-world React projects confidently bana sakte ho aur clients ke requirements easily samajh kar implement kar sakte ho.
@@ -110,5 +110,5 @@ Isse padh ke aap real-world React projects confidently bana sakte ho aur clients
 ## 📞 Contact & Contributions
 
 Feel free to open issues or suggest improvements!  
-Happy Coding & Freelancing! 🚀
+Happy Coding & Freelancing! 
 
