@@ -4,7 +4,7 @@ Ye project React ke freelancing ke liye essential topics ka ek complete roadmap 
 Isse padh ke aap real-world React projects confidently bana sakte ho aur clients ke requirements easily samajh kar implement kar sakte ho.
 
 ---
-
+https://xmind.ai/share/VNFEsThK?xid=z6isozua
 ## 📚 Topics Covered
 
 ### 1. React Basics
