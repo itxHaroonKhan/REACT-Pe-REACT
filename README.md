@@ -2,6 +2,7 @@
 
 Ye project React ke freelancing ke liye essential topics ka ek complete roadmap hai.  
 Isse padh ke aap real-world React projects confidently bana sakte ho aur clients ke requirements easily samajh kar implement kar sakte ho.
+-pdf addted (https://pdf.pi7.org/]
 
 ---
 https://xmind.ai/share/VNFEsThK?xid=z6isozua
