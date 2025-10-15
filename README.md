@@ -7,6 +7,7 @@ Isse padh ke aap real-world React projects confidently bana sakte ho aur clients
 https://xmind.ai/share/VNFEsThK?xid=z6isozua
 ## 📚 Topics Covered
 ms office work **** https://techguruplus.com/
+-img_4x4 https://www.cutout.pro/
 ### 1. React Basics
 - JSX Syntax  
 - Functional Components  
