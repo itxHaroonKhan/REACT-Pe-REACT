@@ -8,6 +8,7 @@ https://xmind.ai/share/VNFEsThK?xid=z6isozua
 ## 📚 Topics Covered
 ms office work **** https://techguruplus.com/
 -img_4x4 https://www.cutout.pro/
+-ms word ke all key butan open wold perss alt + F8
 ### 1. React Basics
 - JSX Syntax  
 - Functional Components  
