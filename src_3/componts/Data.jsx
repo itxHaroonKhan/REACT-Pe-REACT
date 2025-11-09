@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Data = ({ Popup, setPopup }) => {
+const Data = ({ Popup, setPopup, title }) => {
   return (
     <div>
       {Popup && (
-        <div className="bg-black/50 h-screen w-screen left-0 top-0 absolute flex justify-center items-center z-50">
+        <div className="bg-black/50 h-screen w-screen left-0 top-0 fixed flex justify-center items-center z-50">
           {/* Close button */}
           <button
             onClick={() => setPopup(false)}
@@ -16,7 +16,7 @@ const Data = ({ Popup, setPopup }) => {
           {/* Popup box */}
           <div className="w-full max-w-[22rem] h-auto bg-white rounded-xl flex flex-col justify-center items-center shadow-lg p-6 gap-4">
             <p className="text-black text-lg font-semibold text-center">
-              Are you sure you want to delete this?
+              {title}
             </p>
 
             <div className="flex gap-4">
@@ -29,7 +29,7 @@ const Data = ({ Popup, setPopup }) => {
 
               <button
                 onClick={() => {
-                  alert('Item deleted!') // delete ka action yahan likh sakte ho
+                  alert('Action confirmed!')
                   setPopup(false)
                 }}
                 className="bg-red-600 text-white px-4 py-2 rounded hover:bg-red-700 transition"
