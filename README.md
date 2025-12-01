@@ -114,4 +114,5 @@ ms office work **** https://techguruplus.com/
 
 Feel free to open issues or suggest improvements!  
 Happy Coding & Freelancing! 
-
+figma https://www.figma.com/design/sEC2Uo8xDCuA1p47ylX181/SMIT-Batch-18--11-to-1-?node-id=117-336&t=89J1GK6chmvQaeBg-1
+-figma     ([https://www.figma.com/design/vl2TaoexAEXRMzP0YOsciK/Fashion-E-commerce-Website--Community-?node-id=0-1&p=f&t=xQOsLrNZSVrXdsOQ-0}
